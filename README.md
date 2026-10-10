@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**travelaries/travelaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌍 Travelaries
 
-Here are some ideas to get you started:
+Welcome to **Travelaries** — discover inspiring destinations, practical travel guides, cultural experiences and useful trip-planning resources.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✈️ Explore Our Travel Guides
+
+- 🌐 [Travelaries Official Website](https://travelaries.com/)
+- 🇹🇷 [Turkish Food Guide](https://travelaries.com/turkish-food/)
+- 🕌 [Ottoman Heritage Guide](https://travelaries.com/ottoman-heritage/)
+- 🌊 [Türkiye Coastal Escapes](https://travelaries.com/coastal-escapes/)
+
+## 🧭 About Travelaries
+
+Travelaries helps travellers discover memorable places, explore local food and culture, and plan their journeys with practical destination information.
+
+We're also developing travel planning tools and resources to make trip preparation easier.
+
+**Explore more at [Travelaries.com](https://travelaries.com/)**
+  
